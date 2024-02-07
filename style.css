@@ -1,0 +1,36 @@
+
+.navbar{
+    padding: 0px;
+    background-color: rgb(220, 172, 101);
+}
+.nav-item{
+    opacity: 100%;
+}
+.d1{
+    display: flex;
+    position: relative;
+    left: -1px;
+    top: 0px;
+    color: rgb(11, 66, 10);
+    font-size: 100px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.navbar-brand{
+    font-size: x-large;
+}
+
+.d2{
+    width: max-content;
+}
+.card>img{
+    height: 200px;
+}
+.card-body{
+    height: 500px;
+}
+body{
+    background-image: url("c:\Users\Lenovo\Downloads\Kudamatom_at_thrissur_pooram_2013_7618.jpeg");
+    background-size: cover;
+}
+    

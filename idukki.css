@@ -1,0 +1,13 @@
+body{
+    background: url("./img/IMAGE_1687152685.jpg");
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+.t1{
+    font-size: xx-large;
+    left: -5000px;
+    color: black;
+}
+.t2{
+    color: white;
+}

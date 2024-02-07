@@ -1,0 +1,13 @@
+body{
+    background: url("./tt.jpg");
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+.t1{
+    font-size: xx-large;
+    left: -5000px;
+    color: white;
+}
+.t2{
+    color: white;
+}

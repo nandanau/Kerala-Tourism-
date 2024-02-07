@@ -1,0 +1,12 @@
+body{
+    background: url("./img/Best-Places-to-Visit-in-Trivandrum-in-2-Days.jpg");
+    background-size: cover;
+}
+.t1{
+    font-size: xx-large;
+    left: -5000px;
+    color: darkblue;
+}
+.t2{
+    color: white;
+}
