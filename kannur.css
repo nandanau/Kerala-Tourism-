@@ -1,7 +1,7 @@
 body{
-    background: url("./img/desktop-wallpaper-theyyam-2017-thaliparamba-kannur-kerala-ashok-saravanan-ay.jpg");
+    background-image: url("./img/istockphoto-1328689113-612x612.jpg");
+    background-repeat: no-repeat;
     background-size: cover;
-    background-repeat: no-repeat; 
 }
 .t1{
     font-size: xx-large;
@@ -10,4 +10,10 @@ body{
 }
 .t2{
     color: white;
+}
+.card>img{
+    height: 200px;
+}
+.card-body{
+    height: 60px;
 }

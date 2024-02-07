@@ -1,5 +1,6 @@
 body{
-    background: url("./img/Best-Places-to-Visit-in-Trivandrum-in-2-Days.jpg");
+    background-image: url("./img/istockphoto-1328689113-612x612.jpg");
+    background-repeat: no-repeat;
     background-size: cover;
 }
 .t1{
@@ -9,4 +10,10 @@ body{
 }
 .t2{
     color: white;
+}
+.card>img{
+    height: 200px;
+}
+.card-body{
+    height: 60px;
 }

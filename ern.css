@@ -1,0 +1,20 @@
+
+body{
+    background-image: url("./img/istockphoto-1328689113-612x612.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.t1{
+    font-size: xx-large;
+    left: -5000px;
+    color: black;
+}
+.t2{
+    color: white;
+}
+.card>img{
+    height: 200px;
+}
+.card-body{
+    height: 60px;
+}
